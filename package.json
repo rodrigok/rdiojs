@@ -1,6 +1,6 @@
 {
   "name": "rdiojs",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Rdio NodeJS Cli",
   "main": "app.js",
   "scripts": {
@@ -12,5 +12,10 @@
   "dependencies": {
     "shelljs": "~0.2.2",
     "request": "~2.27.0"
-  }
+  },
+  "bin": {
+    "rdiojs": "bin/rdiojs.js"
+  },
+  "main" : "./lib/index.js",
+  "preferGlobal": "true"
 }
