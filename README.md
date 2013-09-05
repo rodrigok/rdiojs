@@ -5,7 +5,7 @@
 #How to install
 
 ```javascript
-npm install rdiojs
+npm install rdiojs -g
 ```
 
 #How to use
