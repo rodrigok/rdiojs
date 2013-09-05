@@ -1,6 +1,6 @@
 {
   "name": "rdiojs",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Rdio NodeJS Cli",
   "main": "app.js",
   "scripts": {
