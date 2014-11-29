@@ -1,7 +1,7 @@
 {
   "name": "rdiojs",
-  "version": "0.0.5",
-  "description": "Rdio NodeJS Cli",
+  "version": "0.0.6",
+  "description": "Rdio/Spotify/iTunes NodeJS Cli",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

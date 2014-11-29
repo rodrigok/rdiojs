@@ -1,4 +1,4 @@
-#rdiojs -- Rdio NodeJS Cli
+#rdiojs -- Rdio/Spotify/iTunes NodeJS Cli
 
 [![NPM](https://nodei.co/npm/rdiojs.png?downloads=true&stars=true)](https://nodei.co/npm/rdiojs/)
 [![NPM](https://nodei.co/npm-dl/rdiojs.png)](https://nodei.co/npm/rdiojs/)
